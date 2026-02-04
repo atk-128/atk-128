@@ -1,13 +1,14 @@
 ## 👋 Hi, I'm Atsuki
 
-Pythonで「作って使える」業務自動化・データ可視化ツールを開発しています。  
+Pythonで「作って使える」業務自動化・データ可視化ツールを設計・開発しています。
 CLIツールを中心に、再現性のあるスクリプト設計を重視しています。
 
 ---
 
 ### 🚀 Featured Project
 #### 📈 stock_price_auto_report
-株価データを取得し、CSVと分析用グラフを自動生成するPython製CLIツール  
+株価データを取得し、CSVと分析用グラフを自動生成するPython製CLIツール
+（個人投資の定点観測・レポート自動化を想定）
 👉 https://github.com/atk-128/stock_price_auto_report
 
 - 複数銘柄対応（yfinance）
