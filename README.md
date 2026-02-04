@@ -1,6 +1,7 @@
 ## Hi 👋 I'm Atsuki
 
-Pythonを使った **業務自動化・データ処理・CLIツール開発** を中心に学習・開発しています。
+Pythonで「作って使える」業務自動化・データ可視化ツールを開発しています。
+業務効率化・データ処理・CLIツール開発を中心に学習・開発中です。
 
 ### 🔧 Skills
 - Python（CLIツール / データ処理 / 可視化）
@@ -10,7 +11,8 @@ Pythonを使った **業務自動化・データ処理・CLIツール開発** �
 
 ### 📌 Featured Project
 **stock_price_auto_report**  
-株価データを取得し、CSVと分析用グラフを自動生成するCLIツール  
+株価データを取得し、CSVと分析用グラフを自動生成するCLIツール
+（毎日の株価チェック・レポート作成を自動化）
 👉 https://github.com/atk-128/stock_price_auto_report
 
 - 複数銘柄対応
